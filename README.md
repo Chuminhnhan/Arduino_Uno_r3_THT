@@ -1,5 +1,2 @@
 # Arduino_Uno_r3_THT
-abcxyz
-hikjlmn
-uiopytr
-done routing
+Made by Chu Minh Nhan
