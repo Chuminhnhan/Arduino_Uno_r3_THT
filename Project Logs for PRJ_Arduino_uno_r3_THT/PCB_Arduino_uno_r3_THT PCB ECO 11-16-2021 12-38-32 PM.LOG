@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SCK Pin=IC1-5
+Added Pin To Net: NetName=SCK Pin=JP1-2
+Added Room: Name=SCH_Arduino_uno_r3_THT
