@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\CMN's DATA\Altium\Projests\PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.PcbDoc
 Date     : 11/16/2021
-Time     : 1:07:49 PM
+Time     : 9:31:51 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
