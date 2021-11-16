@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=L2 NewDesignator=TX
+Change Component Designator: OldDesignator=L3 NewDesignator=RX
+Change Component Designator: OldDesignator=ON1 NewDesignator=ON
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetL3_1 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetON1_1 New Net Name=NetON_1
+Added Room: Name=SCH_Arduino_uno_r3_THT

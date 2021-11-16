@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=C1 Old Footprint=tu nhom 6.3 (d) New Footprint=tu nhom 6.3 (d)
+Change Physical Footprint: Designator=C2 Old Footprint=tu nhom 6.3 (d) New Footprint=tu nhom 6.3 (d)
+Change Physical Footprint: Designator=D2 Old Footprint=CD1206-S01575 New Footprint=CD1206-S01575
+Change Physical Footprint: Designator=JP4 Old Footprint=JP 1x10 CT New Footprint=JP 1x10 CT
+Change Physical Footprint: Designator=JP5 Old Footprint=JP 1x8 CT New Footprint=JP 1x8 CT
+Change Physical Footprint: Designator=JP9 Old Footprint=JP 1x8 CT New Footprint=JP 1x8 CT
+Change Physical Footprint: Designator=JP10 Old Footprint=JP 1x6 CT New Footprint=JP 1x6 CT
+Change Physical Footprint: Designator=Q1 Old Footprint=SOT23_1 New Footprint=SOT23_1
+Change Physical Footprint: Designator=R12 Old Footprint=tro smd 0805 New Footprint=tro smd 0805
