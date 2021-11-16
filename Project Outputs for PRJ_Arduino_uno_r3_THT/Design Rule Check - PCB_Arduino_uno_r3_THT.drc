@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\CMN's DATA\Altium\Projests\PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.PcbDoc
 Date     : 11/16/2021
-Time     : 10:54:00 AM
+Time     : 1:07:49 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -10,19 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C11-2(1424.426mil,1173.268mil) on Top Layer And Pad C9-2(1870.574mil,1173mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (807.166mil,1180mil)(812.166mil,1175mil) on Top Layer And Pad C11-2(1424.426mil,1173.268mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetIC1_5 Between Pad IC1-5(716.22mil,1054mil) on Top Layer And Pad JP1-2(2505mil,1100mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (2275.438mil,900.292mil)(2279.06mil,896.67mil) on Top Layer And Pad JP1-4(2605mil,1000mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-8(1775mil,805mil) on Multi-Layer And Pad U1-22(1875mil,495mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-8(1775mil,805mil) on Multi-Layer And Track (2036.572mil,971.228mil)(2040.194mil,974.85mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (1870.574mil,1169.063mil)(1870.574mil,1173mil) on Top Layer And Via (2016mil,1078mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (418mil,537mil) from Top Layer to Bottom Layer And Track (468.071mil,905.678mil)(475.945mil,913.552mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (685mil,1311mil) from Top Layer to Bottom Layer And Track (745.018mil,1782.239mil)(798.407mil,1728.85mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (93mil,1369mil)(102mil,1360mil) on Top Layer And Via (250mil,1429mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (250mil,1429mil) from Top Layer to Bottom Layer And Via (296mil,1051mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (250mil,1429mil) from Top Layer to Bottom Layer And Via (685mil,1311mil) from Top Layer to Bottom Layer 
-Rule Violations :12
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -55,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 12
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
