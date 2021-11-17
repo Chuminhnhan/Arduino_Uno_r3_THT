@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for PRJ_Arduino_uno_r3_THT
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -126,106 +126,86 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\Design Rule Check - PCB_Arduino_uno_r3_THT.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.REP
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.RUL
 DItemRevisionGUID=
 
@@ -276,7 +256,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for PRJ_Arduino_uno_r3_THT
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
