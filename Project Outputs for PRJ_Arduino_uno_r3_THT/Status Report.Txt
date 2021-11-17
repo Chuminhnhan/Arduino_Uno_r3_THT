@@ -1,30 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [PRJ_Arduino_uno_r3_THT.PrjPcb]
-   Generated File[PCB_Arduino_uno_r3_THT.GTO]
-   Generated File[PCB_Arduino_uno_r3_THT.GTP]
-   Generated File[PCB_Arduino_uno_r3_THT.GTS]
-   Generated File[PCB_Arduino_uno_r3_THT.GTL]
-   Generated File[PCB_Arduino_uno_r3_THT.GBL]
-   Generated File[PCB_Arduino_uno_r3_THT.GBS]
-   Generated File[PCB_Arduino_uno_r3_THT.GBO]
-   Generated File[PCB_Arduino_uno_r3_THT.GM1]
-   Generated File[PCB_Arduino_uno_r3_THT.GM2]
-   Generated File[PCB_Arduino_uno_r3_THT.GM3]
-   Generated File[PCB_Arduino_uno_r3_THT.GM8]
-   Generated File[PCB_Arduino_uno_r3_THT.GM13]
-   Generated File[PCB_Arduino_uno_r3_THT.GM15]
-   Generated File[PCB_Arduino_uno_r3_THT.GKO]
-   Generated File[PCB_Arduino_uno_r3_THT.GPT]
-   Generated File[PCB_Arduino_uno_r3_THT.GPB]
-   Generated File[PCB_Arduino_uno_r3_THT.GD1]
-   Generated File[PCB_Arduino_uno_r3_THT.GG1]
-   Generated File[PCB_Arduino_uno_r3_THT.RUL]
-   Generated File[PCB_Arduino_uno_r3_THT.EXTREP]
-   Generated File[PCB_Arduino_uno_r3_THT.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PRJ_Arduino_uno_r3_THT.PrjPcb]
+   Generated File[PCB_Arduino_uno_r3_THT-RoundHoles.TXT]
+   Generated File[PCB_Arduino_uno_r3_THT-SlotHoles.TXT]
+   Generated File[PCB_Arduino_uno_r3_THT.LDP]
+   Generated File[PCB_Arduino_uno_r3_THT.DRR]
 
 
-Files Generated   : 21
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 10:05:16 PM On 11/16/2021
+Finished Output Generation At 3:11:38 PM On 11/17/2021

@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Arduino_uno_r3_THT.PcbDoc   11/17/2021  3:11:37 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Arduino_uno_r3_THT-RoundHoles.TXT
+ASCII SlotHoles File : PCB_Arduino_uno_r3_THT-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             43        PTH        0.00inch (0.00mm)
+T3      33mil (0.831mm)                                           Round             28        PTH        0.00inch (0.00mm)
+T4      40mil (1.021mm)                                           Round             32        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T6      59mil (1.501mm)                                           Slot              3         PTH        0.00inch (0.00mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              122
+
+Total Processing Time (hh:mm:ss) : 00:00:00

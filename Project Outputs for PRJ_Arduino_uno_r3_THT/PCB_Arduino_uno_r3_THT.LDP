@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\CMN's DATA\Altium\Projests\PRJ_Arduino_uno_r3_THT\PCB_Arduino_uno_r3_THT.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_arduino_uno_r3_tht-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_arduino_uno_r3_tht-slotholes.txt|DrillLayers=gtl,gbl

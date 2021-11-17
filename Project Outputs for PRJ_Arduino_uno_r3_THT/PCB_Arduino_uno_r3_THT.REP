@@ -2,33 +2,6 @@
 FileName = PCB_Arduino_uno_r3_THT.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : PCB_Arduino_uno_r3_THT.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 15
       File : PCB_Arduino_uno_r3_THT.GM15
 
@@ -37,10 +10,10 @@ Generating : Mechanical 15
 
 Used DCodes :
     D16
-    D57
-    D58
-    D60
     D61
+    D62
+    D64
+    D65
 *************************************************************
 
 *************************************************************
@@ -54,9 +27,9 @@ Used DCodes :
     D10
     D16
     D21
-    D57
-    D58
-    D59
+    D61
+    D62
+    D63
 *************************************************************
 
 *************************************************************
@@ -67,6 +40,34 @@ Generating : Mechanical 8
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : PCB_Arduino_uno_r3_THT.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D18
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : PCB_Arduino_uno_r3_THT.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D18
+    D57
+    D58
 *************************************************************
 
 *************************************************************
@@ -91,45 +92,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 3
-      File : PCB_Arduino_uno_r3_THT.GM3
+Generating : Bottom Overlay
+      File : PCB_Arduino_uno_r3_THT.GBO
 
-    Adding Layer      : Mechanical 3
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : PCB_Arduino_uno_r3_THT.GTL
+Generating : Bottom Solder
+      File : PCB_Arduino_uno_r3_THT.GBS
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
-    D14
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
     D43
     D44
     D45
@@ -140,20 +123,48 @@ Used DCodes :
     D50
     D51
     D52
-    D53
-    D54
-    D55
-    D56
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB_Arduino_uno_r3_THT.GBO
+Generating : Top Solder
+      File : PCB_Arduino_uno_r3_THT.GTS
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -252,13 +263,76 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 2
-      File : PCB_Arduino_uno_r3_THT.GM2
+Generating : Top Layer
+      File : PCB_Arduino_uno_r3_THT.GTL
 
-    Adding Layer      : Mechanical 2
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D13
+    D14
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_Arduino_uno_r3_THT.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
 *************************************************************
 
 *************************************************************
@@ -284,72 +358,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : PCB_Arduino_uno_r3_THT.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB_Arduino_uno_r3_THT.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
       File : PCB_Arduino_uno_r3_THT.GD1
 
@@ -359,8 +367,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D61
-    D62
+    D65
+    D66
 *************************************************************
 
 *************************************************************
@@ -373,6 +381,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D61
+    D65
 *************************************************************
 
